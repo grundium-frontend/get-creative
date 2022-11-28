@@ -110,5 +110,6 @@ The data structure looks like:
 3. Make it look nice, try to match the theme of the app with the content, but don't go over the top (don't spend more than a few hours)
 4. Make informed decisions. Use what you think is suitable for e.g., state management, making HTTP requests, rendering the map.
 5. Just to make things a little simpler, see the following UI wireframe example. But as long as the required functionality is there, feel free to change anything.
+6. Create a GitHub repository for your solution, make a demo available (GitHub pages), and send us the link.
 
 ![localImage](./assets/Task.png)
