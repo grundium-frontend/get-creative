@@ -14,8 +14,8 @@ engineers to implement the ***Locator*** application. This is where your part in
 Your task is to design and implement the ***Locator*** application. This is a single page application, on which the user
 can see a map of the world. At the first glance, the user should be able to see the markers for those locations on the map.
 The user should also be able to click and set their own location on the map. When the user location is set, a list should
-appear; each item on the list corresponds to a location, and should render the data available for the being which awaits
-on that location, in addition to the distance of the user to the being. The list should be sorted from closest to farthest.
+appear; each item on the list corresponds to a location, and should render the data available for the entity which awaits
+on that location, in addition to the distance of the user to the entity. The list should be sorted from closest to farthest.
 
 ## Data sources
 
@@ -49,9 +49,9 @@ The data structure looks like:
 
 Where "lat" and "long" correspond to geographical latitudes and longitudes, respectively.
 
-### Information about the beings
+### Information about the entities
 
-To fetch data about the beings who await us at those coordinates, fetch the data from:
+To fetch data about the entities who await us at those coordinates, fetch the data from:
 
 ```http request
 GET https://akabab.github.io/starwars-api/api/id/<id>.json
