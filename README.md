@@ -106,8 +106,9 @@ The data structure looks like:
 ## Requirements
 
 1. The main front-end technology is to be selected from: Angular, React, or React frameworks, e.g., Gatsby or Next.js
-2. Make it look nice, try to match the theme of the app with the content, but don't go over the top (don't spend more than a few hours)
-3. Make informed decisions. Use what you think is suitable for e.g., state management, making HTTP requests, rendering the map.
-4. Just to make things a little simpler, see the following UI wireframe example. But as long as the required functionality is there, feel free to change anything.
+2. What part(s) of the data you get from the APIs you use is also up to you.
+3. Make it look nice, try to match the theme of the app with the content, but don't go over the top (don't spend more than a few hours)
+4. Make informed decisions. Use what you think is suitable for e.g., state management, making HTTP requests, rendering the map.
+5. Just to make things a little simpler, see the following UI wireframe example. But as long as the required functionality is there, feel free to change anything.
 
 ![localImage](./assets/Task.png)
